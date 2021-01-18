@@ -71,3 +71,31 @@ hr {
   padding: 1%;
   
 }
+
+.map-container-6{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  }
+
+  .map-container-6 iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+  }
+
+  #pictureSize {
+    width: 6rem;
+    height: 6rem;
+    margin: 1%;
+    border-radius: 10px;
+  }
+
+  #dateSize {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: rgb(64, 61, 109);
+  }

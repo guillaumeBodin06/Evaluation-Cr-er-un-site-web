@@ -6,3 +6,51 @@
   width: 5rem;
   height: 5rem;
 }
+
+#myFirstTitle {
+  color: #000;
+  font-size: 5rem;
+}
+
+#selectionCard {
+  margin-top: 10%;
+  margin-left: 5%;
+  
+}
+
+#round-size {
+  width: 13rem;
+  height: 13rem;
+  margin-left: 14%;
+  
+}
+
+#separationForm {
+  margin-bottom: 3rem;
+  margin-top:  3rem;
+  text-align: center;
+  border: solid;
+  border-radius: 5px;
+  box-shadow: 3px 5px rgba(29, 27, 27, 0.533);
+  margin-right: 5%;
+  margin-left: 5%;
+  
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 5px solid rgba(0, 0, 0, 0.1);
+}
+
+#avisSeparation {
+  margin-top: 10%;
+  padding: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+#separation {
+  margin-top:  3rem;
+}

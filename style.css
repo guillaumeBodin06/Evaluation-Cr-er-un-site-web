@@ -54,3 +54,20 @@ hr {
 #separation {
   margin-top:  3rem;
 }
+
+#helpSize {
+  height: 100%;
+  width: 30em;
+  
+}
+
+#helpColor {
+  background-color: rgb(208, 207, 224);
+  border-radius: 3px;
+}
+
+#helpButton {
+  margin-top: 2%;
+  padding: 1%;
+  
+}
